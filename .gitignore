@@ -1,0 +1,19 @@
+# Virtuaaliympäristö
+myenv/
+
+# Ympäristömuuttujat (sisältää API-avaimet!)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
